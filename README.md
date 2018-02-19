@@ -142,3 +142,6 @@
 
 
 From : https://ethereum.stackexchange.com/a/120/19779 
+
+Google sheets version : https://docs.google.com/spreadsheets/d/1LDRyHqftWy4zevG-_IC6LKDmzbufFwL10g-iR48kZJc
+
